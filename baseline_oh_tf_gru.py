@@ -1,24 +1,3 @@
-'''
-Author: your name
-Date: 2021-08-17 18:19:20
-LastEditTime: 2021-08-17 18:20:29
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: /PyCode/project_demo/各类竞赛/大数据DC/科大讯飞用户推荐/release_version/baseline_oh_tf_gru.py
-'''
-'''
-Author: your name
-Date: 2021-08-17 16:31:55
-LastEditTime: 2021-08-17 16:33:17
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: /PyCode/project_demo/各类竞赛/大数据DC/科大讯飞用户推荐/release_version/baseline
-'''
-# 要添加一个新单元，输入 '# %%'
-# 要添加一个新的标记单元，输入 '# %% [markdown]'
-# %%
-
-
 
 # %%
 import pandas as pd
