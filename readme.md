@@ -1,5 +1,5 @@
 
-比赛地址[https://challenge.xfyun.cn/topic/info?type=user-portrait&ch=dc-web-20](https://challenge.xfyun.cn/topic/info?type=user-portrait&ch=dc-web-20)
+比赛&&数据集地址[https://challenge.xfyun.cn/topic/info?type=user-portrait&ch=dc-web-20](https://challenge.xfyun.cn/topic/info?type=user-portrait&ch=dc-web-20)
 
 思路:
 
