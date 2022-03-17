@@ -7,3 +7,5 @@
 
 ![image](https://user-images.githubusercontent.com/41276134/137570452-9bcee0bb-eeed-471a-afb8-db0788ad5f96.png)
 
+想要了解这类赛题的思路可以看我的公众号文章 https://mp.weixin.qq.com/s/zlFfYV-45EAORjaF0YzZOw
+
